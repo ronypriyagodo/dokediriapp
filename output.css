@@ -1017,8 +1017,8 @@ video {
 .border-t {
   border-top-width: 1px;
 }
-.border-dashed {
-  border-style: dashed;
+.border-solid {
+  border-style: solid;
 }
 .border-\[\#ff2d00\] {
   --tw-border-opacity: 1;
@@ -1069,7 +1069,7 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(219 234 254 / var(--tw-bg-opacity, 1));
 }
-.bg-blue-500 {
+.bg-blue-700 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
 }
